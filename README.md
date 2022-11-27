@@ -1,1 +1,1 @@
-"# Generation-of-Cancer-cells-dataset-using-GANs" 
+We know that cancer cells datasets are one of the most forlorn bunch we can come across, hence, using various gans we generate newer datasets of cancer cells that can help doctors and new coming models to better identify and solve various problems relating to cancer cells datasets and find more accurate models in predicting them.
