@@ -8,8 +8,8 @@
 ## Authors
 
 - [Abdul Rahman Shigihalli](https://www.github.com/abdul-bit)
-- [Akash Mehta](https://github.com/aanchal-n)
-- [Suhas K Pai](https://github.com/naren951)
+- [Akash Mehta]([https://github.com/aanchal-n](https://www.linkedin.com/in/kash666/))
+- [Suhas K Pai]([https://github.com/naren951](https://www.linkedin.com/in/k-suhas-pai/))
 
 
 
